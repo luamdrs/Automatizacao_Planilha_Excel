@@ -36,5 +36,6 @@ A função salvar_arquivo() salva o arquivo Excel no diretório local após toda
 
 *Este projeto também pode ser utilizado para uma análise básica de dados, focada em comparar preços de diferentes modelos de iPhone entre várias lojas.*
 
-Obs.: _Projeto Simples desenvolvido totalmente em Python e realizado apenas para fins de estudos e consultas futuras._
+_Este projeto foi desenvolvido com o objetivo de praticar e fixar conceitos em Python._
 
+> Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado. 🚀💫
